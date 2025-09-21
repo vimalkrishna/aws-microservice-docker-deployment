@@ -1,0 +1,29 @@
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# STS (Spring Tool Suite)
+.metadata/
+.springBeans
+.tooling/
+
+# IDE-specific files for other IDEs (good practice to include)
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# Build and Temporary files
+*.log
+*.tmp
+*.class
+bin/
