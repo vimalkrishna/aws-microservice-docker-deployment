@@ -1,0 +1,66 @@
+##############################
+# Build Artifacts
+##############################
+target/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+bin/
+
+##############################
+# Maven Wrapper
+##############################
+.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+
+##############################
+# Local Database Files
+##############################
+*.mv.db
+*.trace.db
+
+##############################
+# Logs
+##############################
+*.log
+
+##############################
+# Text Files (your rule)
+##############################
+*.txt
+
+##############################
+# Spring Tool Suite (STS)
+##############################
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+##############################
+# IntelliJ IDEA
+##############################
+.idea/
+*.iws
+*.iml
+*.ipr
+
+##############################
+# NetBeans
+##############################
+nbproject/private/
+
+##############################
+# VS Code
+##############################
+.vscode/
+
+##############################
+# OS Files
+##############################
+.DS_Store
+Thumbs.db
